@@ -1,0 +1,6 @@
+CUSTOMER_ID,FIRST_NAME,LAST_NAME,EMAIL,CITY,STATE,COUNTRY,UPDATED_AT
+1001,Aarav,Shah,aarav.shah@example.test,Mumbai,Maharashtra,India,2026-01-02 09:00:00
+1002,Mira,Patel,mira.patel@example.test,Pune,Maharashtra,India,2026-01-02 09:05:00
+1003,Kabir,Rao,kabir.rao@example.test,Bengaluru,Karnataka,India,2026-01-02 09:10:00
+1004,Anaya,Iyer,anaya.iyer@example.test,Chennai,Tamil Nadu,India,2026-01-02 09:15:00
+1005,Dev,Nair,dev.nair@example.test,Kochi,Kerala,India,2026-01-02 09:20:00
